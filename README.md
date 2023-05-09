@@ -37,16 +37,19 @@
 <br><br>
 <p align="center">
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=bchmsl&show_icons=true&locale=en&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api?username=bchmsl&show_icons=true&locale=en" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bchmsl&" />
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=bchmsl&show_icons=true&locale=en&layout=compact" /><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=bchmsl&show_icons=true&locale=en" /> <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bchmsl&" /> <br>
 </p>
 
 ### ✍️ Random Dev Quote
+
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
+
 ### 🔝 Top Contributed Repo
+
 <p align="center">
     <img
         src="https://github-contributor-stats.vercel.app/api?username=bchmsl&limit=5&theme=onedark&combine_all_yearly_contributions=true">
