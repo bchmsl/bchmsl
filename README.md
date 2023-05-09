@@ -36,10 +36,11 @@
 </p>
 <br><br>
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bchmsl&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /> <br>
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=bchmsl&show_icons=true&locale=en&layout=compact" /><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=bchmsl&show_icons=true&locale=en" /> <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bchmsl&" /> <br>
+        src="https://github-readme-stats.vercel.app/api?username=bchmsl&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" /><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bchmsl&theme=onedark&hide_border=true" /> <br>
+
 </p>
 
 ### ✍️ Random Dev Quote
