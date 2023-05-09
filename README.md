@@ -1,7 +1,7 @@
 # 💫 About Me:
-### 🎓 CSE Student at Business and Technology University<br>
-### 🏢 Android Developer Intern at Space International<br>
-### 📍 Lives in Tbilisi, Georgia (GMT +4)<br><br>
+#### 🎓 CSE Student at Business and Technology University
+#### 🏢 Android Developer Intern at Space International
+#### 📍 Lives in Tbilisi, Georgia (GMT +4)
 
 
 ## 🌐 Socials:
