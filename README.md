@@ -15,8 +15,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bchmsl&theme=onedark&hide_border=true&include_all_commits=true&count_private=true | width=100) ![](https://github-readme-streak-stats.herokuapp.com/?user=bchmsl&theme=onedark&hide_border=true | width=100)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bchmsl&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact | width=200)
+![](https://github-readme-stats.vercel.app/api?username=bchmsl&theme=onedark&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=bchmsl&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bchmsl&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
