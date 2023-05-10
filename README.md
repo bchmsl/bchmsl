@@ -2,7 +2,7 @@
 ### 🎓 CSE Student at Business and Technology University
 ### 🏢 Android Developer at Space International
 ### 📍 Lives in Tbilisi, Georgia (GMT +4)
-### 🔭 Currently working on ![ChatApp](https://github.com/bchmsl/ChatApp)
+### 🔭 Currently working on [ChatApp](https://github.com/bchmsl/ChatApp)
 
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bchmsl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bchmsl) ![](https://komarev.com/ghpvc/?username=bchmsl&label=Profile%20views&color=0e75b6&style=flat)
 
