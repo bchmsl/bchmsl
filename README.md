@@ -6,7 +6,7 @@
 
 <br>
 
-## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bchmsl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bchmsl) ![](https://komarev.com/ghpvc/?username=bchmsl&label=Profile%20views&color=0e75b6&style=flat)
+## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4605F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bchmsl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bchmsl) ![](https://komarev.com/ghpvc/?username=bchmsl&label=Profile%20views&color=0e75b6&style=flat)
 
 <br>
 
@@ -20,40 +20,40 @@ padding: 15px
 ">
         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
                         src="icons/Android.svg"
-                        alt="android" width="40" height="40" /> </a>
+                        alt="android" width="60" height="60" /> </a>
         <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img
-                        src="icons/Kotlin.svg" alt="kotlin" width="40"
-                        height="40" /> </a>
+                        src="icons/Kotlin.svg" alt="kotlin" width="60"
+                        height="60" /> </a>
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
                         src="icons/Java.svg"
-                        alt="java" width="40" height="40" /> </a>
+                        alt="java" width="60" height="60" /> </a>
         <a href="https://postman.com" target="_blank" rel="noreferrer"><img
-                        src="icons/Postman.svg" alt="postman" width="40"
-                        height="40" /> </a>
+                        src="icons/Postman.svg" alt="postman" width="60"
+                        height="60" /> </a>
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-                        src="icons/Firebase.svg" alt="firebase" width="40"
-                        height="40" /></a>
+                        src="icons/Firebase.svg" alt="firebase" width="60"
+                        height="60" /></a>
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" align="center_vertical"> <img
-                        src="icons/SQLite.svg" alt="sqlite" width="40"
-                        height="40" /> </a>
+                        src="icons/SQLite.svg" alt="sqlite" width="60"
+                        height="60" /> </a>
         <br>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-                        src="icons/Figma.svg" alt="figma" width="40"
-                        height="40" /> </a>
+                        src="icons/Figma.svg" alt="figma" width="60"
+                        height="60" /> </a>
         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-                        src="icons/Xd.svg" alt="xd" width="40" height="40" /> </a>
+                        src="icons/Xd.svg" alt="xd" width="60" height="60" /> </a>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
                         src="icons/Ai.svg"
-                        alt="illustrator" width="40" height="40" /> </a>
+                        alt="illustrator" width="60" height="60" /> </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                        src="icons/Git.svg" alt="git" width="40"
-                        height="40" /> </a>
+                        src="icons/Git.svg" alt="git" width="60"
+                        height="60" /> </a>
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
                         src="icons/Oracle.svg"
-                        alt="oracle" width="40" height="40" /> </a>
+                        alt="oracle" width="60" height="60" /> </a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
                         src="icons/MySQL.svg"
-                        alt="mysql" width="40" height="40" /> </a>
+                        alt="mysql" width="60" height="60" /> </a>
 </p> <br>
 <p align="center">
         <img
