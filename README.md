@@ -36,7 +36,6 @@ padding: 15px
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer" align="center_vertical"> <img
                         src="icons/SQLite.svg" alt="sqlite" width="60"
                         height="60" /> </a>
-        <br>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
                         src="icons/Figma.svg" alt="figma" width="60"
                         height="60" /> </a>
