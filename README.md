@@ -2,7 +2,7 @@
 ### 🎓 CSE Student at [Business and Technology University](https://btu.edu.ge/en)
 ### 🏢 Android Developer at [Space International](https://space.ge/en)
 ### 📍 Lives in Tbilisi, Georgia (UTC +4)
-### 🔭 Currently working on [QuizApp](https://github.com/bchmsl/QuizApp)
+### 🔭 Currently working on [QuizApp](https://github.com/bchmsl/QuizApp) and [ChatApp](https://github.com/bchmsl/ChatApp)
 
 <br>
 
