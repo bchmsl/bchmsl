@@ -1,6 +1,6 @@
 ``` kotlin
 
-const val bchmsl = developer(Software) {
+val bchmsl = developer(Software) {
     about {
         name = "Bachana Mosulishvili"
         company = SpaceInternational
@@ -22,27 +22,5 @@ const val bchmsl = developer(Software) {
         develop()
     }
 }
-
-val bchmsl = Developer.Builder(ANDROID)
-    .firstName("Bachana")
-    .lastName("Mosulishvili")
-    .skills("Kotlin", "Android")
-    .experience(
-        Personal(years = 3), Working(
-            SpaceInternational(years = 1)
-        )
-    ).networks(SOCIAL) {
-        listOf(
-            Facebook(name = "Bachana Mosulishvili"),
-            Instagram(username = "bchmsl").also {
-                Threads().username = username
-            },
-            LinkedIn(username = "bchmsl"),
-        )
-    }.networks(CONTACT) {
-        Email(email = "bachanamosulishvili@gmail.com")
-    }.build().run {
-        develop()
-    }
 
 ```
