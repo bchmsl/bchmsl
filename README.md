@@ -5,7 +5,8 @@ val bchmsl = Developer.Builder()
     .lastName("Mosulishvili")
     .skills("Kotlin", "Android")
     .experience(
-        Personal(years = (2..3)), Working(
+        Personal(years = (2..3)),
+        Working(
             SpaceInternational(years = 1)
         )
     ).contact(
