@@ -1,10 +1,14 @@
 ``` kotlin
 
-val bchmsl = developer {
+const val bchmsl = developer {
     about {
         name = "Bachana Mosulishvili"
         company = SpaceInternational
         company.role = ANDROID_DEVELOPER
+        experience {
+            working < 1
+            personal 2..3
+        }
     }
     skills("Kotlin", "Android")
     contact {
@@ -12,6 +16,10 @@ val bchmsl = developer {
         facebook = "Bachana Mosulishvili"
         instagram = @BCHMSL
         email = bachanaMosulishvili@Gmail
+        linked.in("https://www.linkedin.com/in/bchmsl/")
+    }
+    init {
+        develop()
     }
 }
 
