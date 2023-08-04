@@ -1,6 +1,6 @@
 ``` kotlin
 
-const val bchmsl = developer {
+const val bchmsl = developer(Software) {
     about {
         name = "Bachana Mosulishvili"
         company = SpaceInternational
