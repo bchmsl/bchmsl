@@ -1,5 +1,4 @@
 ``` kotlin
-
 val bchmsl = Developer.Builder()
     .firstName("Bachana")
     .lastName("Mosulishvili")
@@ -15,5 +14,4 @@ val bchmsl = Developer.Builder()
         LinkedIn(url = "https://www.linkedin.com/in/bchmsl/")
     ).email(email = "bachanamosulishvili@gmail.com")
     .build().run { develop() }
-
 ```
