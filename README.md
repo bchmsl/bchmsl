@@ -1,9 +1,10 @@
 ``` kotlin
 
+// Hello. My name is Bachana and this is my profile.
 val bchmsl = developer(Software) {
     about {
         name = "Bachana Mosulishvili"
-        company = SpaceInternational
+        company = SpaceInternational()
         company.role = ANDROID_DEVELOPER
         experience {
             working < 1
@@ -12,12 +13,16 @@ val bchmsl = developer(Software) {
     }
     skills("Kotlin", "Android")
     contact {
-        github = this@bchmsl
-        facebook = "Bachana Mosulishvili"
-        instagram = @BCHMSL
-        email = bachanaMosulishvili@Gmail
-        linked.in("https://www.linkedin.com/in/bchmsl/")
+        social {
+            facebook = "Bachana Mosulishvili"
+            instagram = @BCHMSL
+            linked.in("https://www.linkedin.com/in/bchmsl/")
+        }.also {
+            github = this@bchmsl
+            email = bachanaMosulishvili@Gmail
+        }
     }
+    // Let's get started...
     init {
         develop()
     }
