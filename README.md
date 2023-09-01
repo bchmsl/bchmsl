@@ -2,11 +2,10 @@
 
 val bchmsl = Developer.Builder()
         .firstName("Bachana")
-        .lastName("Mosulishvili")
+	.lastName("Mosulishvili")
         .age(Time.THIS_YEAR - 2002)
         .skills(
-            "Kotlin",
-            "Android",
+            mainSkills = listOf("Kotlin", "Android"),
             designPatterns = Pattern.MVVM,
             architecturePatterns = Pattern.CLEAN,
             architectures = listOf("Monolithic", "Modular"),
@@ -17,7 +16,7 @@ val bchmsl = Developer.Builder()
         ).experience(
             Personal(time = (2021.09f..Time.NOW)),
             Working(
-                SpaceInternational(time = 2023.04f..Time.NOW)
+                SpaceInternational(time = (2023.04f..Time.NOW))
             )
         ).contact(
             Facebook(name = "Bachana Mosulishvili"),
@@ -27,5 +26,4 @@ val bchmsl = Developer.Builder()
             Medium(url = "https://bchmsl.medium.com/")
         ).email(email = "bachanamosulishvili@gmail.com")
         .build().run { develop() }
-
 ```
