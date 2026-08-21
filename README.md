@@ -71,7 +71,6 @@ My work revolves around clean architecture, modular systems, and production-qual
 ---
 
 ## 📈 GitHub Insights
-![](https://github-readme-streak-stats.herokuapp.com/?user=bchmsl&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bchmsl&theme=tokyonight)
 
 > Most of my work is in private fintech repositories, so public stats don’t fully reflect my activity.
